@@ -1,6 +1,6 @@
 # Job Portal Project (Easily)
 
-[Demo](URL)
+[Demo](https://easily-wudl.onrender.com)
 
 This is a job portal website developed using Node.js and Express.js. The project allows recruiters to post and manage job listings and provides a user-friendly platform for job seekers to find and apply for suitable roles.
 
