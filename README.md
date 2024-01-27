@@ -21,14 +21,14 @@ The Job Portal Project aims to create a platform where recruiters can post job l
 
 The project follows a structured folder organization:
 
-Easily/
-|- views/ # Contains EJS templates for rendering views
-|- controllers/ # Controllers handling business logic
-|- models/ # Models defining data structures and operations
-|- middleware/ # Middleware functions for request processing
-|- routes/ # Express routes for defining API endpoints
-|- public/ # Contains static assets like CSS and JavaScript files
-|- index.js # Main entry point of the application
+- Easily/
+  - |- views/ # Contains EJS templates for rendering views
+  - |- controllers/ # Controllers handling business logic
+  - |- models/ # Models defining data structures and operations
+  - |- middleware/ # Middleware functions for request processing
+  - |- routes/ # Express routes for defining API endpoints
+  - |- public/ # Contains static assets like CSS and JavaScript files
+  - |- index.js # Main entry point of the application
 
 
 ## File Descriptions
